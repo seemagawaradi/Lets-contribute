@@ -1,2 +1,2 @@
 # Lets-contribute
-A place where you can start with Open Source contribution
+<div align="center"> A place where you can start with Open Source contribution </div>
